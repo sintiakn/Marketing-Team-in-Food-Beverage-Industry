@@ -1,4 +1,4 @@
-**Background**
+# **Background**
 
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. I as marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
@@ -11,30 +11,28 @@ Their Marketing team is responsible for increasing brand awareness, market share
 
 **Who should be our Target Market?**
 
-Which marketing channel can be used to reach more customers?
+**Which marketing channel can be used to reach more customers?**
 
-Which type of marketing reaches the most Youth (15-30)?
+**Which type of marketing reaches the most Youth (15-30)?**
 
-What are the preferred ingredients of energy drinks among respondents?
+**What are the preferred ingredients of energy drinks among respondents?**
 
-What packaging preferences do respondents have for energy drinks?
+**What packaging preferences do respondents have for energy drinks?**
 
-Who are the current market leaders?
+**Who are the current market leaders?**
 
-How much rating of each brand?
+**How much rating of each brand?**
 
-What are the typical consumption situations for energy drinks among respondents?
+**What are the typical consumption situations for energy drinks among respondents?**
 
-Reason why the customer consume Energy Drinks?
+**Reason why the customer consume Energy Drinks?**
 
-What is consumer perception of the Codex brand?
+**What is consumer perception of the Codex brand?**
 
-Which cities do we need to focus more on?
-
-
+**Which cities do we need to focus more on?**
 
 
-**Customer Profile**
+# **Customer Profile**
 1. Consumption Frequency:
    Regularly consumes energy drinks, integrating them into weekly routines.
 2. Usage Preferences:
@@ -48,7 +46,7 @@ Which cities do we need to focus more on?
 6. Motivation for Consumption:
    Motivated by a desire for wellness and naturalness, seeking increased energy, focus, and productivity.
 
-**Marketting**
+# **Marketting**
 1. Health Campaigns:
    Emphasize CodeX's health benefits and natural ingredients.
    Showcase its seamless integration into daily activities.
@@ -63,8 +61,7 @@ Which cities do we need to focus more on?
 5. Innovative Packaging:
    Introduce eco-friendly, portable packaging aligning with on-the-go preferences
 
-**Brand Ambassador**
-
+# **Brand Ambassador**
 Virat Kohli
 Athletic Lifestyle Alignment: Virat Kohli's role as the Indian cricket team captain aligns perfectly with CodeX's emphasis on an active and healthy lifestyle.
 Influential Credibility: Kohli's influential presence in the sports world enhances CodeX's credibility, making him an effective ambassador to broaden the brand's appeal.

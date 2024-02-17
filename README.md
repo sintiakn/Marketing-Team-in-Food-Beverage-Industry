@@ -19,16 +19,23 @@ Their Marketing team is responsible for increasing brand awareness, market share
    Motivated by a desire for wellness and naturalness, seeking increased energy, focus, and productivity.
 
 **Marketting**
-Health Campaigns:
-Emphasize CodeX's health benefits and natural ingredients.
-Showcase its seamless integration into daily activities.
-Brand Awareness:
-Conduct online and TV ads for widespread exposure.
-Tailor campaigns for smaller cities where awareness is needed.
-Utilize platforms for customer interaction and promotional campaigns.
-Education on Ingredients:
-Share information on natural ingredients online and in-store.
-Partnerships:
-Collaborate with health stores, fitness centers, and e-commerce platforms.
-Innovative Packaging:
-Introduce eco-friendly, portable packaging aligning with on-the-go preferences
+1. Health Campaigns:
+   Emphasize CodeX's health benefits and natural ingredients.
+   Showcase its seamless integration into daily activities.
+2. Brand Awareness:
+   Conduct online and TV ads for widespread exposure.
+   Tailor campaigns for smaller cities where awareness is needed.
+   Utilize platforms for customer interaction and promotional campaigns.
+3. Education on Ingredients:
+   Share information on natural ingredients online and in-store.
+4. Partnerships:
+   Collaborate with health stores, fitness centers, and e-commerce platforms.
+5. Innovative Packaging:
+   Introduce eco-friendly, portable packaging aligning with on-the-go preferences
+
+**Brand Ambassador**
+Virat Kohli
+Athletic Lifestyle Alignment: Virat Kohli's role as the Indian cricket team captain aligns perfectly with CodeX's emphasis on an active and healthy lifestyle.
+Influential Credibility: Kohli's influential presence in the sports world enhances CodeX's credibility, making him an effective ambassador to broaden the brand's appeal.
+Relatable Fitness Image: Kohli's fitness-focused lifestyle makes him relatable to CodeX's target audience, creating a strong connection with consumers seeking natural energy drinks.
+Widespread Popularity: Leveraging Kohli's popularity ensures broad reach, supporting the brand's strategy of conducting online and TV ads for maximum exposure.

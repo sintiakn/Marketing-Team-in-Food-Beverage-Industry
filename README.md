@@ -3,6 +3,36 @@
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
 Their Marketing team is responsible for increasing brand awareness, market share, and product development. They conducted a survey in those 10 cities and received results from 10k respondents. I as marketing data analyst is tasked to convert these survey results to meaningful insights which the team can use to drive actions.
 
+**Analysis**
+Who prefers energy drink more?
+
+Which age group prefers energy drinks more?
+
+Who should be our Target Market?
+
+Which marketing channel can be used to reach more customers?
+
+Which type of marketing reaches the most Youth (15-30)?
+
+What are the preferred ingredients of energy drinks among respondents?
+
+What packaging preferences do respondents have for energy drinks?
+
+Who are the current market leaders?
+
+How much rating of each brand?
+
+What are the typical consumption situations for energy drinks among respondents?
+
+Reason why the customer consume Energy Drinks?
+
+What is consumer perception of the Codex brand?
+
+Which cities do we need to focus more on?
+
+Which cities do we need to focus more on?
+
+
 
 **Customer Profile**
 1. Consumption Frequency:

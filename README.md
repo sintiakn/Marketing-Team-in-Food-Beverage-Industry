@@ -34,6 +34,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
    Introduce eco-friendly, portable packaging aligning with on-the-go preferences
 
 **Brand Ambassador**
+
 Virat Kohli
 Athletic Lifestyle Alignment: Virat Kohli's role as the Indian cricket team captain aligns perfectly with CodeX's emphasis on an active and healthy lifestyle.
 Influential Credibility: Kohli's influential presence in the sports world enhances CodeX's credibility, making him an effective ambassador to broaden the brand's appeal.
